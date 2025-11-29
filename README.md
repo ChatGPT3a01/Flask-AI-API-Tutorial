@@ -2,6 +2,14 @@
 
 從零開始打造 AI 對話應用 - Flask + OpenAI API 完整教學
 
+## 📘 教學簡報入口
+
+本專案搭配 HTML 互動簡報教材，請由此進入：
+
+👉 **[Flask + OpenAI AI 對話 API 實作教學｜簡報入口](https://chatgpt3a01.github.io/Flask-AI-API-Tutorial/簡報/index.html)**
+
+---
+
 ## 課程大綱
 
 | 單元 | 主題 | 對應簡報 | 類型 |
