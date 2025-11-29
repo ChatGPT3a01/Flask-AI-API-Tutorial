@@ -6,7 +6,7 @@
 
 本專案搭配 HTML 互動簡報教材，請由此進入：
 
-👉 **[Flask + OpenAI AI 對話 API 實作教學｜簡報入口](https://chatgpt3a01.github.io/Flask-AI-API-Tutorial/簡報/index.html)**
+👉 **[Flask + AI 對話 API 實作教學｜簡報入口](https://chatgpt3a01.github.io/Flask-AI-API-Tutorial/簡報/index.html)**
 
 ---
 
