@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git config:*)",
+      "Bash(xcopy:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\n新增 .7_佈署Netlify雲平台 - AI 聊天助手\n\n功能：\n- 支援 OpenAI GPT-4o 和 Google Gemini 雙模型\n- 前端可切換 AI 模型\n- 使用 Netlify Functions (Python) 作為後端\n\n檔案：\n- index.html: 聊天介面\n- netlify.toml: Netlify 配置\n- netlify/functions/chat.py: API 處理\n- .env.example: 環境變數範例\n- 佈署過程.txt: 詳細部署教學\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git push:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
